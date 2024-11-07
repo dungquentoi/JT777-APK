@@ -1,0 +1,13 @@
+# Ignor APK files if they are not to be stored in the repo
+*.apk
+
+# Ignor cache and log files
+*.log
+*.tmp
+*.cache
+node_modules/
+dist/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
